@@ -13,7 +13,7 @@
 
 - 💬 Ask me about React, BootStrap , Mongodb **React, BootStrap , Mongodb**
 
-- 📫 How to reach me ammarahmed12805@gmail.com **ammarahmed12805@gmail.com**
+- 📫 How to reach me **ammarahmed12805@gmail.com**
 
 - ⚡ Fun fact **here isn't any**
 
