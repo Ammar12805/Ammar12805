@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Real World Project**
 
-- 💬 Ask me about React, BootStrap , Mongodb **React, BootStrap , Mongodb**
+- 💬 Ask me about **React, BootStrap , Mongodb**
 
 - 📫 How to reach me **ammarahmed12805@gmail.com**
 
